@@ -1,0 +1,9 @@
+# Ciencia de datos
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn>=1.2.0
+
+# Deep Learning (incluye tf.keras)
+tensorflow==2.18.0

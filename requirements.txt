@@ -4,6 +4,7 @@ numpy
 matplotlib
 seaborn
 plotly
+xgboost
 scikit-learn>=1.2.0
 
 # Deep Learning (incluye tf.keras)

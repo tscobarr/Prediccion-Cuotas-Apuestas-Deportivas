@@ -63,7 +63,3 @@ pytest_cache/
 # Credentials or temp configs
 .env
 .env.*
-
-# Ignorar archivos CSV y ZIP en cualquier carpeta
-*.csv
-*.zip

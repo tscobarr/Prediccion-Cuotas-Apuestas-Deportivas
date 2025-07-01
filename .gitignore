@@ -1,6 +1,4 @@
 #
-# PDF output files
-*.pdf
 
 # MacOS system files
 .DS_Store

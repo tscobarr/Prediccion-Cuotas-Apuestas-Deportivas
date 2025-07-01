@@ -3,6 +3,7 @@ pandas
 numpy
 matplotlib
 seaborn
+plotly
 scikit-learn>=1.2.0
 
 # Deep Learning (incluye tf.keras)

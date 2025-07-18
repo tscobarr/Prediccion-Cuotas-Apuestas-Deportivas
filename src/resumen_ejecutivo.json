@@ -1,0 +1,10 @@
+{
+  "total_partidos": 1200,
+  "precision_promedio_r2": 0.63,
+  "precision_promedio_mape": 16.3,
+  "overround_objetivo": 2.946904965316039,
+  "overround_logrado": 2.946904965316044,
+  "cuotas_validas_porcentaje": 100.0,
+  "margen_ganancia_casa": 2.8625483848298123,
+  "metodo_recomendado": "proporcional"
+}

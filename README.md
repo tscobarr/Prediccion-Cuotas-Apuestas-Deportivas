@@ -188,9 +188,9 @@ scipy >= 1.10.0           # Optimización y estadística
 ## Autores y Contribuciones
 
 ### Equipo de Desarrollo
-- **Mariana Valencia Cubillos**: Análisis de datos y modelado predictivo
-- **Leonard David Vivas Dallos**: Desarrollo de estrategias y simulación
-- **Tomás Escobar Rivera**: Arquitectura del sistema y optimización
+- **Mariana Valencia Cubillos**
+- **Leonard David Vivas Dallos**
+- **Tomás Escobar Rivera**
 
 ### Contribuciones
 - Análisis exploratorio comprehensivo con +50 visualizaciones
